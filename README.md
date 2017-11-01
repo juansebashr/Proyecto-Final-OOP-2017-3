@@ -1,20 +1,17 @@
 <Completar el readme empleando [markdown](https://guides.github.com/features/mastering-markdown/), de acuerdo a la información de cada proyecto. Modifique el archivo de licencia, de ser necesario. Elimine las instrucciones (texto que aparece entre "<" y ">")>
 
 # Título del proyecto
-
+Movimiento de un robot Motoman MH6 mediante visión de maquina y redes neuronales
 # Integrantes
-
-<Complete la siguiente tabla>
 
 | Nombre | Github nickname |
 |--------|-----------------|
-|        |                 |
-
+| Juan Sebastian Hernández Reyes | juansebashr |
+ 
 # Introducción
 
 ## Problemática
-
-<Descripción del problema que se busca resolver>
+Optimizar el proceso de Pick and Place en un robot Motoman MH6 mediante el uso de Machine Learning
 
 ## Marco teórico
 
@@ -35,5 +32,5 @@
 <Desglose el objetivo general en específicos>
 
 # Requisitos
-
-<Indique el lenguaje y los requerimientos esperados de la aplicación. Liste las [librerías de Processing](https://processing.org/reference/libraries/) que se emplearían para su desarrollo.>
+  Se piensa usar Python, mediante su modo en Processing
+  Las librerias a usar son OpenCV, controlP5.
