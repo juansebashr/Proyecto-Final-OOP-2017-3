@@ -46,3 +46,8 @@ Crear un programa, el cual permita de forma gráfica implementar un algoritmo ba
 # Requisitos
   Se piensa usar Python.
   Las librerias a usar son OpenCV, wx.Python, keras, numpy y matplotlib.pyplot
+  
+# Instrucciones para correr el programa
+  Se recomienda para correr el programa tener un IDE de Python, tener instalado Python 3.5 o superior, tiene que estar corriendo en 64 	   bits, tener instaladas los modulos dichos mediante el modulo pip.
+  Es supremamente importante si se va a descargar el programa cambiar todos los Paths de los archivos para los usados en cada computador   en el lugar donde se tenga guardado el proyecto.
+
