@@ -14,7 +14,7 @@ Optimizar el proceso de Pick and Place en un robot Motoman MH6 mediante el uso d
 
 ## Marco teórico
 
-	Para este proyecto se usan conceptos de Deep y Machine learning, ademas de procesamiento de imagenes y varios de sus métodos, 		las siguientes URL's resumen de la mejor manera la información
+	Para este proyecto se usan conceptos de Deep y Machine learning, ademas de procesamiento de imagenes y varios de sus métodos, las siguientes URL's resumen de la mejor manera la información
 	-Machine Vision
 	-https://en.wikipedia.org/wiki/Machine_vision 
 	-https://es.wikipedia.org/wiki/Algoritmo_de_Canny
