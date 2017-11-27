@@ -22,5 +22,8 @@ class identifier:
         else:
             cv2.drawContours(newImg, approx, -1, (255, 0, 0), 3)
         self.c=c
-        self.Rotation = rectangle_rotation(approx)
+        if c=="Cube":
+            self.Rotation = rectangle_rotation(approx)
+        elif c=="Cylinder"
+            self.Rotation = "Doesn't have rotation"
         self.ShowImage = cv2.imwrite("C:\\Users\\Liliana Reyes\\PycharmProjects\\OOP_Final_Project\\GUI\\newImg.jpg", newImg)
