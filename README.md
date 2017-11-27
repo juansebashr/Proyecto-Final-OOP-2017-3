@@ -14,18 +14,18 @@ Optimizar el proceso de Pick and Place en un robot Motoman MH6 mediante el uso d
 
 ## Marco teórico
 
-Para este proyecto se usan conceptos de Deep y Machine learning, ademas de procesamiento de imagenes y varios de sus métodos, las siguientes URL's resumen de la mejor manera la información
+	Para este proyecto se usan conceptos de Deep y Machine learning, ademas de procesamiento de imagenes y varios de sus métodos, 		las siguientes URL's resumen de la mejor manera la información
 	-Machine Vision
-		-https://en.wikipedia.org/wiki/Machine_vision 
-		-https://es.wikipedia.org/wiki/Algoritmo_de_Canny
-		-https://es.wikipedia.org/wiki/Algoritmo_de_Ramer%E2%80%93Douglas%E2%80%93Peucker
+	-https://en.wikipedia.org/wiki/Machine_vision 
+	-https://es.wikipedia.org/wiki/Algoritmo_de_Canny
+	-https://es.wikipedia.org/wiki/Algoritmo_de_Ramer%E2%80%93Douglas%E2%80%93Peucker
 	-Neural Network
-		-https://en.wikipedia.org/wiki/Deep_learning
-		-https://en.wikipedia.org/wiki/Artificial_neural_network
--Python
-		-https://es.wikipedia.org/wiki/Python
--Motoman
-		-https://www.motoman.com/industrial-robots
+	-https://en.wikipedia.org/wiki/Deep_learning
+	-https://en.wikipedia.org/wiki/Artificial_neural_network
+	-Python
+	-https://es.wikipedia.org/wiki/Python
+	-Motoman
+	-https://www.motoman.com/industrial-robots
 
 ## Antecedentes
 
